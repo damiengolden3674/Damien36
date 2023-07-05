@@ -1,0 +1,3 @@
+[submodule "docker-homebridge"]
+	path = docker-homebridge
+	url = https://damiengolden3674@github.com/damiengolden3674/docker-homebridge
